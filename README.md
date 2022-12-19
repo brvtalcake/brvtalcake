@@ -10,7 +10,7 @@ I'm currently working on three different projects in C, and I have tons of ideas
 - actually, just propose something to me, and I'll tell you
 ## How to contact me
 - Discord : brvtalcake#5752
-- [My mail address](axlpascon@gmail.com)
+- [My mail address](mailto:axlpascon@gmail.com)
 
 
 <!--
