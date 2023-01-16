@@ -1,6 +1,9 @@
 name: Waka Readme
 
 on:
+  push:
+    branches:
+      - main
   workflow_call:
   schedule:
     # Runs at 12am IST
