@@ -11,3 +11,13 @@ I'm currently working on three different projects in C, and I have tons of ideas
 ## How to contact me
 - Discord : brvtalcake#5752
 - [My mail address](mailto:axlpascon@gmail.com)
+
+## Some random stats, because that's fun
+### GitHub stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=brvtalcake&show_icons=true&theme=solarized-light&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brvtalcake&lang_count=10)](https://github.com/anuraghazra/github-readme-stats)
+### Wakatime account stats
+<!--START_SECTION:waka-->
+ 
+<!--END_SECTION:waka-->
