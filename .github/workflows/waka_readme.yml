@@ -1,6 +1,11 @@
 name: Waka Readme
 
 on:
+  workflow_call:
+    inputs:
+      config-path:
+        required: true
+        type: string
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
