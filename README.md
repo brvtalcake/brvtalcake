@@ -18,7 +18,7 @@ I'm currently working on three different projects in C, and I have tons of ideas
 ### Most used languages
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brvtalcake&lang_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ### Wakatime account stats
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brvtalcake)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brvtalcake&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
