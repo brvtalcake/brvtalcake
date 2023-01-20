@@ -18,40 +18,11 @@ I'm currently working on three different projects in C, and I have tons of ideas
 ### Most used languages
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brvtalcake&lang_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ### Wakatime account stats
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brvtalcake&v=2)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 56 Contributions in the Year 2023
- > 
-> 📦 1.9 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I Mostly Code in C** 
-
-```text
-C                        5 repos             ████████████████████░░░░░   83.33% 
-CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/brvtalcake/brvtalcake/main/charts/bar_graph.png) 
-
-
- Last Updated on 16/01/2023 03:32:51 UTC
-<!--END_SECTION:waka-->
+#### Language stats by wakatime
+![My wakatime language stats](https://wakatime.com/share/@brvtalcake/ee913842-4349-474d-afa7-939dfef61e57.svg)
+#### Editors stats by wakatime
+![My wakatime editors stats](https://wakatime.com/share/@brvtalcake/d49f9855-cc76-4647-a7d8-4b6d1e2237b9.svg)
+#### OS stats by wakatime
+![My wakatime OS stats](https://wakatime.com/share/@brvtalcake/5bc6c90d-834e-4f34-9822-59b3ab1fe75b.svg)
+#### Coding activity by wakatime
+![My wakatime coding activity](https://wakatime.com/share/@brvtalcake/9a96bd92-34f8-4eba-ae71-616500c3a795.svg)
