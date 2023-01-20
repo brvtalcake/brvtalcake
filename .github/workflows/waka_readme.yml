@@ -6,11 +6,7 @@ on:
       - main
   workflow_call:
   schedule:
-    # Runs at 12am IST
-    - cron: '00 18 * * *'
-    - cron: '00 12 * * *'
     - cron: '00 06 * * *'
-    - cron: '00 00 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -22,6 +18,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "en_US"
+          SHOW_TOTAL_CODE_TIME: "False"
           SHOW_UPDATED_DATE: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
