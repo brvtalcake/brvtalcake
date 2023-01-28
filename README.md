@@ -14,6 +14,7 @@ I'm currently working on three different projects in C, and I have tons of ideas
 
 ## Some random stats, because that's fun
 ### GitHub stats
+![](https://komarev.com/ghpvc/?username=brvtalcake&style=plastic&color=green)
 [![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=brvtalcake&show_icons=true&theme=solarized-light&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ### Most used languages
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brvtalcake&lang_count=10)](https://github.com/anuraghazra/github-readme-stats)
