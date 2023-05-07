@@ -23,8 +23,8 @@ Here you can have an overview of what I'm doing here.
 
 #### Language stats by wakatime
 ---
-![My wakatime language stats](https://wakatime.com/share/@brvtalcake/d1f567a3-f0f4-4b37-b1a2-1e235e6493bd.svg)
+<img src="https://wakatime.com/share/@brvtalcake/d1f567a3-f0f4-4b37-b1a2-1e235e6493bd.svg" width="650">
 
 #### Coding activity by wakatime
 ---
-![My wakatime coding activity](https://wakatime.com/share/@brvtalcake/fdfcc23b-a7fc-4fbc-991e-a8e87fdc334d.svg)
+<img src="https://wakatime.com/share/@brvtalcake/fdfcc23b-a7fc-4fbc-991e-a8e87fdc334d.svg" width="650">
