@@ -7,7 +7,7 @@ Make yourself confortable
 - Discord : brvtalcake#5752
 - [My mail address](mailto:axlpascon@gmail.com)
 
-## Some random stats, because that's fun and addictive
+## Some random stats, because that's ~~fun~~ addictive
 
 ### GitHub stats
 
