@@ -1,13 +1,13 @@
-# Welcome to my little and modest playground
+# Welcome to my little playground
 
-Here you can have an overview of what I'm doing here.
+Make yourself confortable
 
 ## How to contact me
 
 - Discord : brvtalcake#5752
 - [My mail address](mailto:axlpascon@gmail.com)
 
-## Some random stats, because that's fun
+## Some random stats, because that's fun and addictive
 
 ### GitHub stats
 
