@@ -1,6 +1,6 @@
 # Welcome to my little playground
 
-Make yourself confortable
+Make yourself comfortable
 
 ## How to contact me
 
