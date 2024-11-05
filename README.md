@@ -1,13 +1,11 @@
-# Welcome to my little playground
-
-Make yourself comfortable
+# Trying to create better software...
 
 ## How to contact me
 
-- Discord : brvtalcake#5752
+- Discord : brvtalcake#5752 (or just brvtalcake)
 - [My mail address](mailto:axlpascon@gmail.com)
 
-## Some random stats, because that's ~~fun~~ addictive
+## A little overview of my work
 
 ### GitHub stats
 
